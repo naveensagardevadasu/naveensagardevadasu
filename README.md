@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensagardevadasu&label=Profile%20views&color=0e75b6&style=flat" alt="naveensagardevadasu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveensagardevadasu" alt="naveensagardevadasu" /></a> </p>
-
 - 🌱 I’m currently learning **RTOS, Embedded Linux, STM32 based controllers**
 
 - 💬 Ask me about **Embedded C/C++, ROS1 & ROS2, working with electronics using data sheets**
