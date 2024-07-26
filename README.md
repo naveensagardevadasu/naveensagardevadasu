@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Embedded C/C++, ROS1 & ROS2, working with electronics using data sheets**
 
-- 📫 How to reach me **naveensagard620@gmail.com**
+- 📫 How to reach me **naveensagard620@gmail.com** </br> linkedin.com/in/devadasu-naveen-sagar-0a7427118 </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
