@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensagardevadasu&label=Profile%20views&color=0e75b6&style=flat" alt="naveensagardevadasu" /> </p>
 
-- 🌱 I’m currently learning **RTOS, Embedded Linux, STM32 based controllers**
+- 🌱 I’m **RTOS, Embedded Linux, STM32 based controllers, ROS1 & ROS2 ethusiastic**
 
 - 💬 Ask me about **Embedded C/C++, ROS1 & ROS2, working with electronics using data sheets**
 
