@@ -1,20 +1,92 @@
-<h1 align="center">Hi 👋, I'm Naveen Sagar Devadasu</h1>
-<h3 align="center">I am a passionate Embedded Systems Engineer & Roboticist with in Designing, Developing, and Deploying autonomous solutions.</h3>
+# 📌 Naveen Sagar Devadasu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensagardevadasu&label=Profile%20views&color=0e75b6&style=flat" alt="naveensagardevadasu" /> </p>
+## 🚀 About Me
+Innovative Embedded Software Engineer with over 6 years of experience in developing hardware-in-the-loop (HIL) testing systems and real-time embedded software. Expertise in C/C++, embedded hardware interfaces such as I2C, CAN, and UART, along with proficiency in utilizing oscilloscopes for precise measurements. Proven ability to thrive in collaborative, cross-disciplinary engineering environments, driving successful project outcomes.
 
-- 🌱 I’m **RTOS, Embedded Linux, STM32 based controllers, ROS1 & ROS2 ethusiastic**
+---
 
-- 💬 Ask me about **Embedded C/C++, ROS1 & ROS2, working with electronics using data sheets**
+## 📞 Contact
+- **Email**: [naveensagard620@gmail.com](mailto:naveensagard620@gmail.com)
+- **LinkedIn**: [devadasu-naveen-sagar](http://linkedin.com/in/devadasu-naveen-sagar-0a7427118)
+- **GitHub**: [naveensagardevadasu](https://github.com/naveensagardevadasu)
 
-- 📫 How to reach me **naveensagard620@gmail.com** </br> LinkedIn: **linkedin.com/in/devadasu-naveen-sagar-0a7427118** </br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/devadasu-naveen-sagar-0a7427118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/devadasu-naveen-sagar-0a7427118" height="30" width="40" /></a>
-</p>
+## 💡 Skills
+- **Programming Languages**: C, C++, Python, Bash scripting
+- **Microcontrollers & SBCs**: 8051, LPC2148, Arduino, ESP8266 & 32, Teensy, Jetson Nano, STM32, Infineon TC275, Raspberry Pi, BeagleBone
+- **Actuators & Controllers**: Geared Motors, O-drive
+- **Communication Protocols**: UART, I2C, SPI, CAN
+- **Compiler Toolchains & OS**: GNU cross compiler, Embedded Linux (BuildRoot)
+- **Sensors**: 2D Lidars, Depth Cameras, IR Laser Sensors, MPU6050
+- **Libraries & Frameworks**: ROS1, ROS2, Docker, WSL Tool, PyQt5, FreeRTOS
+- **Version Control**: Git
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveensagardevadasu&" alt="naveensagardevadasu" /></p>
+## 🎓 Education
+- **B.Tech, Electronics & Communication Engineering**  
+  Ramachandra College of Engineering, Eluru (JNTUK) | 2014 - 2017  
+- **Diploma, Electronics & Communication Engineering**  
+  GMRIT Rajam, Srikakulam (SBTET) | 2011 - 2014  
+
+---
+
+## 💼 Work Experience
+
+### 🔹 Project Developer | Vector India PVT LTD (11/2024 - Present)
+- Developed a facial recognition system using C++ and OpenCV with pre-trained models.
+- Built a Generative AI-based code builder for Arduino boards and LPC2148 controllers.
+- Designed a flight controller for a quadcopter using Arduino Mega, MPU6050, and RC remote.
+- Utilized AI tools for embedded systems code prototyping.
+- Implemented a BLDC motor controller using TC275 TriCore microcontroller.
+
+### 🔹 Embedded Engineer | Anvi Space PVT LTD (06/2023 - 09/2024)
+- Developed robotic manipulator code on an AVR-based microcontroller for servo motors.
+- Integrated an IMU sensor with an STM32 microcontroller over I2C.
+- Implemented a multi-communication architecture for multiple UART-based ultrasonic sensors.
+
+### 🔹 Embedded Engineer | H-Bots Robotics PVT LTD (10/2022 - 06/2023)
+- Developed firmware using micro-ROS for communication between embedded systems and ROS2.
+- Integrated O-drive motor drivers with ROS2_control for hub motor control.
+- Implemented autonomous mapping using NAV2 and SLAM Toolbox.
+- Utilized ROS2 Docker to optimize performance and reduce dependencies.
+- Designed schematics for motor control and a custom charging station for mobile robots.
+
+### 🔹 Embedded Engineer | Sigma Computing Solutions PVT LTD (05/2018 - 08/2022)
+- Integrated IMU MPU-9250 & MPU-6050 with odometry using an extended Kalman filter.
+- Developed SLAM (Gmapping) with multiple lidars and move-base navigation.
+- Created a PyQt5-based user interface for robot velocity control and camera streaming.
+
+---
+
+## 🔬 Projects
+### 🤖 [AI-based Arduino Code Builder](https://github.com/naveensagardevadasu/ai-arduino-code-builder)
+- Built an AI-powered tool that generates Arduino code based on text prompts and uploads it using Arduino CLI.
+
+### 🛰️ [Quadcopter Flight Controller](https://github.com/naveensagardevadasu/quadcopter-controller)
+- Designed a flight controller using Arduino Mega and MPU6050 for stable flight.
+
+### 🏠 [Autonomous Mobile Robot with ROS2](https://github.com/naveensagardevadasu/autonomous-robot)
+- Implemented SLAM and autonomous navigation using NAV2 and ROS2 frameworks.
+
+---
+
+## 🎯 Interests
+- Robotics & Automation
+- Artificial Intelligence in Embedded Systems
+- Autonomous Vehicles
+- IoT Applications
+- DIY Electronics & Hobby Projects
+- Conducting Workshops on Robotics & IoT
+- Exploring Open-Source Technologies
+
+---
+
+## 📌 GitHub Stats
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveensagardevadasu&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Let's Connect!
+Feel free to reach out for collaborations, discussions, or just a chat about robotics and AI! 🚀
